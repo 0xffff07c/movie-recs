@@ -1,0 +1,44 @@
+{
+ "base": "https://0xffff07c.github.io/movie-recs/",
+ "updated": "2026-10-21T11:24:43+08:00",
+ "issues": [
+  {
+   "date": "2026-10-21",
+   "label": "第 1 期",
+   "title": "每周片单",
+   "url": "https://0xffff07c.github.io/movie-recs/issues/2026-10-21.html",
+   "n": 10,
+   "nmov": 5,
+   "nser": 5,
+   "teaser": [
+    "捕风追影",
+    "飞驰人生3",
+    "校园之外"
+   ],
+   "thumbs": [
+    "issues/thumbs/2026-10-21-1.jpg",
+    "issues/thumbs/2026-10-21-2.jpg",
+    "issues/thumbs/2026-10-21-3.jpg"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "label": "小样",
+   "title": "每周片单 · 样稿",
+   "url": "https://0xffff07c.github.io/movie-recs/issues/2026-10-20.html",
+   "n": 10,
+   "nmov": 5,
+   "nser": 5,
+   "teaser": [
+    "给阿嬷的情书",
+    "挽救计划",
+    "铁拳教育"
+   ],
+   "thumbs": [
+    "issues/thumbs/2026-10-20-1.jpg",
+    "issues/thumbs/2026-10-20-2.jpg",
+    "issues/thumbs/2026-10-20-3.jpg"
+   ]
+  }
+ ]
+}
