@@ -1,7 +1,26 @@
 {
  "base": "https://0xffff07c.github.io/movie-recs/",
- "updated": "2026-10-21T11:24:43+08:00",
+ "updated": "2026-10-23T18:29:52+08:00",
  "issues": [
+  {
+   "date": "2026-10-23",
+   "label": "第 2 期",
+   "title": "每周片单",
+   "url": "https://0xffff07c.github.io/movie-recs/issues/2026-10-23.html",
+   "n": 10,
+   "nmov": 5,
+   "nser": 5,
+   "teaser": [
+    "戏台",
+    "空枪",
+    "呼啸山庄"
+   ],
+   "thumbs": [
+    "issues/thumbs/2026-10-23-1.jpg",
+    "issues/thumbs/2026-10-23-2.jpg",
+    "issues/thumbs/2026-10-23-3.jpg"
+   ]
+  },
   {
    "date": "2026-10-21",
    "label": "第 1 期",
