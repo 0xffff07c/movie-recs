@@ -1,7 +1,26 @@
 {
  "base": "https://0xffff07c.github.io/movie-recs/",
- "updated": "2026-10-23T18:29:52+08:00",
+ "updated": "2026-10-30T18:23:07+08:00",
  "issues": [
+  {
+   "date": "2026-10-30",
+   "label": "第 3 期",
+   "title": "每周片单",
+   "url": "https://0xffff07c.github.io/movie-recs/issues/2026-10-30.html",
+   "n": 10,
+   "nmov": 5,
+   "nser": 5,
+   "teaser": [
+    "诡才之道",
+    "消失的人",
+    "极限审判"
+   ],
+   "thumbs": [
+    "issues/thumbs/2026-10-30-1.jpg",
+    "issues/thumbs/2026-10-30-2.jpg",
+    "issues/thumbs/2026-10-30-3.jpg"
+   ]
+  },
   {
    "date": "2026-10-23",
    "label": "第 2 期",
